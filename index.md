@@ -1,4 +1,4 @@
-theme:
+theme:jekyll-theme-architect
 title:Welcome to Glykeria's method of Teaching Homepage
 description:“Feel free to bookmark this to keep an eye on my project updates”
 
