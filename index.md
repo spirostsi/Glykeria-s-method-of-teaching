@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Welcome to Glykeria's method of Teaching
 
 You can use the [editor on GitHub](https://github.com/spirostsi/Glykeria-s-method-of-teaching/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
